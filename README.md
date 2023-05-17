@@ -1,1 +1,1 @@
-Welcome to my page!
+<img src="https://www.codewars.com/users/mynamedust/badges/large">
