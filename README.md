@@ -6,14 +6,9 @@ Currently, I'm a student at 42 Yerevan, where I actively engage with the world o
 Feel free to reach out to me:
 - Telegram: @almeliky
 - Email: albertmeliky@gmail.com
-<div id="badges">
-  <a href="https://www.linkedin.com/in/albert-melikyan-a18538298/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://www.youtube.com/@user-pf7gc1cv5d">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
-</div>
+
+[<img alt="alt_text" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/albert-melikyan-a18538298/)
+[<img alt="alt_text" src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" />](https://www.youtube.com/@user-pf7gc1cv5d)
 
 ## Languages and tools
 <div align="left">
