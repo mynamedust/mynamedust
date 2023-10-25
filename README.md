@@ -4,9 +4,8 @@ Hello, I'm Albert, a backend developer with a focus on crafting server solutions
 Currently, I'm a student at 42 Yerevan, where I actively engage with the world of programming, tackling exciting challenges along the way. I'm always open to new connections and opportunities!
 
 Feel free to reach out to me:
-- Telegram: @almeliky
-- Email: albertmeliky@gmail.com
 
+[<img alt="alt_text" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />](https://t.me/almeliky)
 [<img alt="alt_text" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/albert-melikyan-a18538298/)
 [<img alt="alt_text" src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" />](https://www.youtube.com/@user-pf7gc1cv5d)
 
