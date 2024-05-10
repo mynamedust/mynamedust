@@ -1,6 +1,6 @@
 # Backend Developer from 42 Yerevan
 
-Hello, I'm Albert, a backend developer with a focus on crafting server solutions and ensuring the seamless operation of web applications. I bring my expertise to the table to build and optimize server systems.
+Hello, I'm Albert, a backend developer with a focus on creating server solutions and ensuring the seamless operation of web applications. I bring my expertise to the table to build and optimize server systems.
 Currently, I'm a student at 42 Yerevan, where I actively engage with the world of programming, tackling exciting challenges along the way. I'm always open to new connections and opportunities!
 
 Feel free to reach out to me:
